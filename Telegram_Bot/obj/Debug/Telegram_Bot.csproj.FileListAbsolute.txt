@@ -1,0 +1,12 @@
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\bin\Debug\Telegram_Bot.exe.config
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\bin\Debug\Telegram_Bot.exe
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\bin\Debug\Telegram_Bot.pdb
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\bin\Debug\Newtonsoft.Json.dll
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\bin\Debug\Telegram.Bot.dll
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\bin\Debug\Newtonsoft.Json.xml
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\bin\Debug\Telegram.Bot.xml
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\obj\Debug\Telegram_Bot.csprojAssemblyReference.cache
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\obj\Debug\Telegram_Bot.csproj.CoreCompileInputs.cache
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\obj\Debug\Telegram_Bot.csproj.CopyComplete
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\obj\Debug\Telegram_Bot.exe
+D:\Skillbox\02 - C#\Lesson 9.4 (Bots)\1. Telegram\Telegram_Bot\Telegram_Bot\obj\Debug\Telegram_Bot.pdb
